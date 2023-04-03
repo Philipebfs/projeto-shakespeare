@@ -84,12 +84,12 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(imagens/background1.jpg);
+    background-image: url(../imagens/background1.jpg);
   
 }
 
 section#img02 {
-    background-image: url(imagens/fundo002.jpg);
+    background-image: url(../imagens/fundo002.jpg);
 }
 
 
